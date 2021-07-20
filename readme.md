@@ -10,14 +10,14 @@ En esta ocacion te hemos traido un ejemplo de la implementacion de un snake el c
 
 # Elementos Utilizados
 
-* <h2>Arduino Mega 
-><img src="src/arduinoMega.PNG" width=150px> 
-* <h2>MAX7219
+* <h2>Arduino Mega<h2> 
+<img src="src/arduinoMega.PNG" width=150px> 
+* <h2>MAX7219<h2>
 <img src="src/max7219.PNG" width=240px>
-* <h2>Matriz led 8x8
-><img src="src/matrizLed.PNG" width=290px>
-* <h2>Joystick o Botones
-><img src="src/joystick.PNG" width=290px>
+* <h2>Matriz led 8x8 <h2>
+<img src="src/matrizLed.PNG" width=290px>
+* <h2>Joystick o Botones <h2>
+<img src="src/joystick.PNG" width=290px>
 
 ---
 # Librerias Utilizadas en Arduino
