@@ -1,0 +1,52 @@
+# SNAKE EN ARDUINO
+
+<img src="src/snake.png" width=150px> 
+<img src="src/arduino.png" width=150px>
+
+En esta ocacion te hemos traido un ejemplo de la implementacion de un snake el cual esta hecho en arduino, del cual te hemos dejado el codigo fuente que hemos utilizado en nuestro video en el Canal de Youtube [DevTek](https://www.youtube.com/channel/UClawZxxlqfXzPetVvUnMb4g), para que lo puedas utilizar e implementar en tus proyectos.
+
+
+--- 
+
+# Elementos Utilizados
+
+* <h2>Arduino Mega 
+><img src="src/arduinoMega.PNG" width=150px> 
+* <h2>MAX7219
+<img src="src/max7219.PNG" width=240px>
+* <h2>Matriz led 8x8
+><img src="src/matrizLed.PNG" width=290px>
+* <h2>Joystick o Botones
+><img src="src/joystick.PNG" width=290px>
+
+---
+# Librerias Utilizadas en Arduino
+
+* LedControl
+
+---
+# Configuracion en Proteus
+
+
+ Se realizo una configuracion para un mejor uso del joystick en proteus utilizando botones del teclado.
+
+>## Atajos de teclado:
+  * Arriba ↑    ~   Numeral 2
+  * Abajo ↓     ~   Numeral 3
+  * Derecha →   ~   Numeral 4
+  * Izquierda ← ~   Numeral 1
+
+---
+## Video Tutorial 
+
+Aca te hemos dejado un video en nuestro canal oficial de Youtube, en donde te mostramos todo el armado de este juego simulado, utilizando proteus y arduino.
+
+[Video]()
+
+---
+
+## Autor: DevTek
+
+[Canal de Youtube](https://www.youtube.com/channel/UClawZxxlqfXzPetVvUnMb4g) :coffee:
+
+<img src="src/DevTek502.png" width=450px>
