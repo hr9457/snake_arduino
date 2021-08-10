@@ -27,7 +27,7 @@ En esta ocacion te hemos traido un ejemplo de la implementacion de un snake el c
 ---
 # Librerias Utilizadas en Arduino
 
-* LedControl
+* [LedControl](https://www.arduino.cc/reference/en/libraries/ledcontrol/)
 
 
 
