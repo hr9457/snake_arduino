@@ -13,7 +13,7 @@ En esta ocacion te hemos traido un ejemplo de la implementacion de un snake el c
 # Elementos Utilizados
 
 * <h2>Arduino Mega<h2> 
-<img src="src/ArduinoMega.PNG" width=150px> 
+<img src="src/ArduinoMega.PNG" width=150px>
 
 * <h2>MAX7219<h2>
 <img src="src/max7219.PNG" width=240px>
@@ -29,7 +29,35 @@ En esta ocacion te hemos traido un ejemplo de la implementacion de un snake el c
 
 * LedControl
 
+
+
 ---
+# Arduino  Mega
+Pines de entrada
+* pin 18: Boton Derecho
+* pin 19: Boton Izquierda
+* pin 20: Boton Arriba
+* pin 21: Boton Abajo
+
+Pines de Salida
+* pin 12: DIN
+* pin 13: CLK
+* pin 14: CS
+
+---
+# MAX7219
+Pines de entrada:  
+* pin 1: DIN
+* pin 12: CS
+* pin 13: CLK
+* pin 18: VCC  
+
+Opcional:
+* pin 24 (DOUT): conexion en cascada para otro MAX7219
+---
+
+
+
 # Configuracion en Proteus
 
 
